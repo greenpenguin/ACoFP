@@ -1,0 +1,6 @@
+/Users/elizavetatalalajkina/Desktop/практика по дгфп/Task2/Task2/bin/Debug/Task2.exe
+/Users/elizavetatalalajkina/Desktop/практика по дгфп/Task2/Task2/bin/Debug/Task2.pdb
+/Users/elizavetatalalajkina/Desktop/практика по дгфп/Task2/Task2/obj/Debug/Task2.csprojAssemblyReference.cache
+/Users/elizavetatalalajkina/Desktop/практика по дгфп/Task2/Task2/obj/Debug/Task2.csproj.CoreCompileInputs.cache
+/Users/elizavetatalalajkina/Desktop/практика по дгфп/Task2/Task2/obj/Debug/Task2.exe
+/Users/elizavetatalalajkina/Desktop/практика по дгфп/Task2/Task2/obj/Debug/Task2.pdb
